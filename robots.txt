@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://enduounic.github.io/sitemap.html.gz
+Sitemap: https://enduounic.github.io/app/sitemap.html.gz
+Sitemap: https://enduounic.github.io/assets/sitemap.html.gz
+Sitemap: https://enduounic.github.io/css/sitemap.html.gz
+Sitemap: https://enduounic.github.io/includes/sitemap.html.gz
+Sitemap: https://enduounic.github.io/item/sitemap.html.gz
+Sitemap: https://enduounic.github.io/src/sitemap.html.gz
